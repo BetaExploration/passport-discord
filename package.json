@@ -1,7 +1,7 @@
 {
-  "name": "@soerenmetje/passport-discord",
+  "name": "@beta-exploration/passport-discord",
   "version": "1.1.0",
-  "description": "passport-discord - but rate limit friendly",
+  "description": "passport-discord - but rate limit friendly and able to pass custom params to OAuth flow",
   "main": "lib/index.js",
   "files": [
     "lib"
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soerenmetje/passport-discord.git"
+    "url": "git+https://github.com/BetaExploration/passport-discord.git"
   },
   "keywords": [],
-  "author": "Soeren Metje (https://github.com/soerenmetje)",
+  "author": "Beta Exploration (https://github.com/BetaExploration)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soerenmetje/passport-discord/issues"
+    "url": "https://github.com/BetaExploration/passport-discord/issues"
   },
-  "homepage": "https://github.com/soerenmetje/passport-discord#readme",
+  "homepage": "https://github.com/BetaExploration/passport-discord#readme",
   "dependencies": {
     "passport-oauth2": "^1.6.1"
   },
